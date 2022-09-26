@@ -1,0 +1,16 @@
+root - INFO - ########################################################
+root - INFO - Testing import_data
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Shape of df:(10127, 22)
+root - INFO - Testing perform eda
+root - INFO - Testing perform eda: SUCCESS
+root - INFO - The plot files are available at location: ./images/eda/
+root - INFO - Testing encoder helper
+root - INFO - Testing encoder helper: SUCCESS
+root - INFO - Testing feature engineering function
+root - INFO - Testing feature engineering function: SUCCESS
+root - INFO - Shapes of x_train, x_test, y_train, y_test:(7088, 19)(3039, 19)(7088,)(3039,)
+root - INFO - Testing train_models function
+root - INFO - SUCCESS: RFC model is present at the location - ./Models/ 
+root - INFO - SUCCESS: LFC model is present at the location - ./Models/ 
+root - INFO - ########################################################
