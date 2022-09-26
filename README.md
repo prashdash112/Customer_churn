@@ -43,7 +43,7 @@ Churn_library package can be run in both interactive mode & command line mode.
 
 1)To run the file in interactive mode, bring the code from churn_library.py in a .ipynb file cell(jupyter notebook) and execute via:
   ````
-  Tab Run>Run all cells**. 
+  Tab Run>Run all cells 
 ````
 
 2)To run the same file in cmd, go to the project folder's location in cmd then type command: 
