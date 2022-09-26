@@ -42,7 +42,9 @@ Description of Data: ![Description](https://drive.google.com/file/d/1MbMjMR6hSFh
 Churn_library package can be run in both interactive mode & command line mode. 
 
 1)To run the file in interactive mode, bring the code from churn_library.py in a .ipynb file cell(jupyter notebook) and execute via:
-  **Tab Run>Run all cells**. 
+  ````
+  Tab Run>Run all cells**. 
+````
 
 2)To run the same file in cmd, go to the project folder's location in cmd then type command: 
 
@@ -59,7 +61,11 @@ After the script ran successfully, user can view the results,plots and models in
 ### Churn script logging and testing
 Churn_script_logging_and_tests is a testing file to test all edge cases of function to make sure the churn script is running the way it's supposed to run. File contains a series of test functions which uses the churn package functions as fixtures to test them. 
 
-To run the churn_script_logging_and_tests.py file, Open command prompt(cmd) then go to the project folder location using **cd folder_name** command then type command: **python churn_script_logging_and_tests.py** or **ipython churn_script_logging_and_tests.py**.
+To run the churn_script_logging_and_tests.py file, Open command prompt(cmd) then go to the project folder location using ````cd folder_name````
+command then type command: 
+````python churn_script_logging_and_tests.py````
+or 
+````ipython churn_script_logging_and_tests.py````
 
 User can check the logs and browse the .log file to view the metadata and errors(if any).
 
