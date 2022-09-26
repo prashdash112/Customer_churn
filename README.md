@@ -31,17 +31,28 @@ Requirements: Dependency requirement file to install required dependencies.
 ### Data description
 
 No of columns : 22
+
 Rows in data: 10127
-Description of Data: ![alt text](https://drive.google.com/file/d/1MbMjMR6hSFhp0aTf2eh73fUCM6XkVdct/view?usp=sharing)
+
+Description of Data: ![Description](https://drive.google.com/file/d/1MbMjMR6hSFhp0aTf2eh73fUCM6XkVdct/view?usp=sharing)
 
 ## Running Files
 
 ### Churn package
 Churn_library package can be run in both interactive mode & command line mode. 
 
-1)To run the file in interactive mode, bring the code from churn_library.py in a .ipynb file cell(jupyter notebook) and execute via: **Tab Run>Run all cells**. 
+1)To run the file in interactive mode, bring the code from churn_library.py in a .ipynb file cell(jupyter notebook) and execute via:
+  **Tab Run>Run all cells**. 
 
-2)To run the same file in cmd, go to the project folder's location in cmd then type command: **python churn_library.py** or **ipython churn_library.py**
+2)To run the same file in cmd, go to the project folder's location in cmd then type command: 
+
+````
+python churn_library.py 
+````
+or
+````
+ipython churn_library.py
+````
 
 After the script ran successfully, user can view the results,plots and models in their respective locations.
 
