@@ -32,7 +32,7 @@ Requirements: Dependency requirement file to install required dependencies.
 
 No of columns : 22
 Rows in data: 10127
-Description of Data: ![Data description](https://drive.google.com/file/d/1MbMjMR6hSFhp0aTf2eh73fUCM6XkVdct/view?usp=sharing)
+Description of Data: ![alt text](https://drive.google.com/file/d/1MbMjMR6hSFhp0aTf2eh73fUCM6XkVdct/view?usp=sharing)
 
 ## Running Files
 
