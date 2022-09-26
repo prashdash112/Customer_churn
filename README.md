@@ -63,9 +63,16 @@ Churn_script_logging_and_tests is a testing file to test all edge cases of funct
 
 To run the churn_script_logging_and_tests.py file, Open command prompt(cmd) then go to the project folder location using ````cd folder_name````
 command then type command: 
-````python churn_script_logging_and_tests.py````
+
+````
+python churn_script_logging_and_tests.py
+````
+
 or 
-````ipython churn_script_logging_and_tests.py````
+
+````
+ipython churn_script_logging_and_tests.py
+````
 
 User can check the logs and browse the .log file to view the metadata and errors(if any).
 
