@@ -1,6 +1,6 @@
 # Predict Customer Churn
 
-- Project **Predict Customer Churn** of ML DevOps Engineer Nanodegree Udacity
+Project **Predict Customer Churn** 
 
 ## Project Description
 Customer churn is the percentage of customers that stopped using a company's product or service during a certain time frame.
