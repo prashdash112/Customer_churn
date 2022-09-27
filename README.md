@@ -18,14 +18,22 @@ able to compare the predicted results to the original results using metrices lik
 ## Files and data description
 ### Folders
 DATA : Folder that contains the bank data file i.e  bank_data.csv
+
+
 Images: This folder contains 2 sub-folders i.e EDA & RESULTS.
+
 Logs: Folder that will have a .log file which contains all metadata recorded while running the script
+
 Models: Folder to save the resultant ml models in a .pkl file.
 
 ### Files
+
 Churn_library: Predict customer churn package to predict the customer churn using ML.
+
 churn_notebook: Interactive version of Predict customer churn package.
+
 churn_script_logging_and_tests: Testing and logging file to test the main package functions & log the errors and metadata to the .log file in ./Logs/
+
 Requirements: Dependency requirement file to install required dependencies.
 
 ### Data description
